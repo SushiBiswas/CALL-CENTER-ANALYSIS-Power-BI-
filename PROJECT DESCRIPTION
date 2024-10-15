@@ -1,0 +1,39 @@
+Virtual Internship Project
+Environment : Power BI Server
+Reporting Tool : Microsoft Power BI
+Platform : Windows 
+Project Team Size : Self
+Role and responsibilities:
+• Created and implemented Power BI dataflows to automate data preparation, 
+transformation, and enrichment processes for improved data analysis efficiency.
+• Worked with Power BI paginated reports to design and develop pixel-perfect, 
+printable reporting solutions for specific business requirements.
+• Conducted A/B testing and statistical analysis in Power BI using Python 
+integration to derive actionable insights from experimental data sets.
+• Utilized advanced Power BI features such as AI visuals, Q&A, and anomaly 
+detection for predictive analytics and discovering hidden patterns in data.
+• Implemented advanced data shaping and modeling techniques in Power BI, 
+including custom calculated tables, aggregation functions, and complex 
+relationships.
+• Configured and utilized Power BI Gateway to enable secure and seamless data 
+connectivity between on-premises data sources and Power BI service.
+• Utilized DAX measures to create complex calculations and KPIs within Power BI 
+reports for enhanced data analysis.
+• Designed and implemented data models in Power BI using relationships, 
+hierarchies, and optimizations for efficient data visualization
+• Collaborated with business users to understand requirements and deliver 
+customized Power BI solutions that meet their analytical needs.
+• Utilized Power Query Editor to perform data cleansing, transformation, and 
+merging from diverse data sources for streamlined analytics.
+• Employed Power BI Embedded to integrate interactive reports and visualizations 
+into web applications.
+• Leveraged expressions and functions in Power Query for complex data 
+manipulation and transformations.
+• Worked with Power BI REST API to automate report generation, embedding, and 
+administration tasks.
+• Designed and implemented incremental data refresh strategies to optimize 
+performance for large datasets in Power BI.
+• Conducted performance tuning and optimization of Power BI reports by 
+minimizing data model size and enhancing query efficiency.
+• Used advanced techniques such as bookmarks, drill through, and report themes 
+to create interactive and visually appealing Power BI dashboards.
